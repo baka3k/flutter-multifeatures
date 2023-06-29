@@ -1,0 +1,1 @@
+export 'page_movie_detail.dart';

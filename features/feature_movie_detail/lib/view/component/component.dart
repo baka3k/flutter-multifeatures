@@ -1,0 +1,1 @@
+export 'ui_movie_infomation.dart';
